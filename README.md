@@ -1,5 +1,7 @@
 # MachiKania type M用DSPラジオシールド
 aitendoの2020年正月の福袋に入っていたDSPラジオ基板M6959と16x2のキャラクター液晶を使って、MachiKania type M用ラジオシールドを作成しました。  
+動画はこちら  
+https://youtu.be/CZbVRWCa3GQ
 ![](dspradio2.jpg)  
 ![](dspradio.jpg)  
  
